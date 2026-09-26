@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Bhanu 👋
 
-<!--
-**soobhanu55/soobhanu55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Artificial Intelligence Master's student at BTU Cottbus-Senftenberg. I work on AI systems and, its working: evaluation harnesses, honest benchmarks, and guardrails.
 
-Here are some ideas to get you started:
+**Start here:**
+- [EvalTrack](https://github.com/soobhanu55/EvalTrack): regression tests for AI models that fail CI when a model gets worse
+- [LexPilot](https://github.com/soobhanu55/LexPilot): multi-agent GraphRAG assistant with a QLoRA fine-tune and a cost cap
+- [QueryMind](https://github.com/soobhanu55/QueryMind): text-to-SQL agent with a rule-based guardrail ([live demo](https://enterprise-text-to-sql-analytics-agent.streamlit.app/))
+- [InspectAI](https://github.com/soobhanu55/InspectAI): YOLOv8 fine-tuned for steel defect detection
+- [InvoiceFlow](https://github.com/soobhanu55/InvoiceFlow): LangGraph agent with an MCP server you can plug into Claude
+- [JobPulse](https://github.com/soobhanu55/JobPulse): what German AI student jobs really ask for, from 519 scraped postings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [LinkedIn](https://www.linkedin.com/in/soobhanu55/) · [Portfolio](https://bhanu-prakash-portfolio-one.vercel.app)
